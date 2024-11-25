@@ -9,6 +9,11 @@ public class Hello {
 public static void main(String[] args) {
 System.out.println("Hello, World!");
     System.out.println("ist version");
-
+ System.out.println("3rd version");
+      
+ 
+System.out.println("Hello, World!");
+    System.out.println("ist version");
+ System.out.println("3rd version");
 }
 }
