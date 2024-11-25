@@ -5,17 +5,10 @@
  */
 package hello;
 
-/**
- *
- * @author USER
- */
 public class Hello {
+public static void main(String[] args) {
+System.out.println("Hello, World!");
+    System.out.println("ist version");
 
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-    }
-    
+}
 }
